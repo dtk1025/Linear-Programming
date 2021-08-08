@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Fri Aug  6 21:43:40 2021
-
-@author: deez
-"""
 
 """objective"""
 
